@@ -1,2 +1,2 @@
 # Tareas
-activida del modulo 2
+actividad del modulo 2
